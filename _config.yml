@@ -20,7 +20,7 @@ author: Carlos Grajales
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Myself"
   Resources:
     - My Company (Spanish Only, Sorry): "https://abconsulting.mx"
     - LinkedIn: "https://www.linkedin.com/in/cgrajales"
@@ -52,7 +52,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: c-grajales
+   github: c-grajales
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -72,7 +72,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  bluesky: cgrajales
+   bluesky: cgrajales
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -274,7 +274,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
